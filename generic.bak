@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Personal:Trace Antenna"
 			(at 0 0 0)
 			(effects
 				(font
@@ -100,17 +100,17 @@
 			)
 		)
 		(symbol "Trace_Antenna_1_1"
-			(pin input line
-				(at 0 -2.54 90)
+			(pin power_in line
+				(at 3.81 -2.54 90)
 				(length 2.54)
-				(name "ANT"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number ""
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -118,17 +118,17 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 3.81 -2.54 90)
+			(pin input line
+				(at 0 -2.54 90)
 				(length 2.54)
-				(name "GND"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number ""
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)

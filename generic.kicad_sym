@@ -103,7 +103,7 @@
 			(pin input line
 				(at 0 -2.54 90)
 				(length 2.54)
-				(name "ANT"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -121,14 +121,14 @@
 			(pin power_in line
 				(at 3.81 -2.54 90)
 				(length 2.54)
-				(name "GND"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
