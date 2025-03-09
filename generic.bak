@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "2337019-1:TE_2337019-1"
+		(property "Footprint" "Personal:TE_2337019-1"
 			(at 0 0 0)
 			(effects
 				(font
